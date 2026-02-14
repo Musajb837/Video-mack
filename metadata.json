@@ -1,0 +1,8 @@
+{
+  "name": "Copy of VideoMack Pro",
+  "description": "A high-fidelity video streaming platform featuring a comprehensive authentication system with country-based registration, email activation, and OTP password recovery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
